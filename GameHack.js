@@ -1,4 +1,4 @@
-var MY_SCORE = 300; //<----ENTER YOUR SCORE HERE
+var MY_SCORE = 280; //<----ENTER YOUR SCORE HERE
 
 //Let's clean up the link so we can use it later
 var loc = (location.hash || "").substr(1), loc = loc.replace(/[\?&].*/g, "");
