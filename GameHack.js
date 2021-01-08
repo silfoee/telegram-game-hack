@@ -1,5 +1,9 @@
-var MY_SCORE = 300; //<----ENTER YOUR SCORE HERE
-
+var MY_SCORE = 281; //<----ENTER YOUR SCORE HERE
+46
+MY_SCORE = 281
+12
+281
+282
 //Let's clean up the link so we can use it later
 var loc = (location.hash || "").substr(1), loc = loc.replace(/[\?&].*/g, "");
 
